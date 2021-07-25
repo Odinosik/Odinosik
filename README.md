@@ -1,6 +1,6 @@
 Hello
 
-Ethical Hacker (soon) | Developer (web, desktop) 
+Ethical Hacker (soon) | Developer (web, desktop) | Student
 
 Goals -> OSCP
 
